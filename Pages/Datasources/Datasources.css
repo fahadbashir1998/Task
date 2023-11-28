@@ -1,0 +1,40 @@
+.Datasources {
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  justify-content: center;
+  align-items: center;
+}
+.datasources-p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.datasources-img{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.sources-images{
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+ 
+}
+.img-cover{
+  border-radius: 50px;
+  
+  border: 2px solid #ccc;
+}
+.src-img{
+  height: 80px;
+  width: 80px;
+  border-radius: 50px;
+
+ 
+ 
+  
+}
+

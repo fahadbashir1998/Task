@@ -1,0 +1,54 @@
+.Ccatergories {
+  display: flex;
+  flex-direction: column;
+ 
+  margin-top: 40px;
+}
+.bgcolor {
+  
+ 
+}
+.heading1 h1 {
+  font-size: 25px;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 50px;
+  text-decoration: underline;
+}
+.category-row {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+.category-row h4 {
+  font-size: 18px;
+  font-weight: 600;
+  color: blue;
+}
+.fpicon {
+    display: flex;
+    flex-direction: column;
+  justify-content: center;
+  align-items: center;
+   padding:30px;
+}
+.main-row{
+margin: 10px;
+}
+
+.fpicon img {
+  display: flex;
+  height: 60px;
+  width: 60px;
+  z-index: 1;
+}
+.fpicon p{
+    font-size: 15px;
+}
+.immunizationIcon {
+  height: 10px;
+  width: 50px;
+  z-index: +1;
+}

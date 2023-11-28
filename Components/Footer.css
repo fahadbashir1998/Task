@@ -1,0 +1,36 @@
+.footer {
+  display: flex;
+  border-top: 1px solid #3F494A;
+
+  margin-top: 7rem;
+  padding: 20px 30px;
+  background-color: #ccc;
+}
+.footer-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.left-logo {
+  height: 75px;
+  width: 75px;
+}
+.right-logo {
+  height: 60px;
+  width: auto;
+  object-fit: cover;
+}
+.right-side {
+  display: flex;
+  justify-content: start;
+  align-items: start;
+  margin-right: 40px;
+}
+.left-side {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+   margin-left: 5rem;
+}
